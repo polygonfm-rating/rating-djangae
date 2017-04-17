@@ -1,0 +1,27 @@
+cron:
+
+- description: Collecting rating data from lastfm.com
+  url: /jobs/lastfm/
+  schedule: every 1 hours from 03:00 to 07:00
+  timezone: Europe/Moscow
+
+- description: Collecting rating data from youtube.com
+  url: /jobs/youtube/
+  schedule: every 1 hours from 03:10 to 07:10
+  timezone: Europe/Moscow
+
+- description: Collecting rating data from vk.com
+  url: /jobs/vk/
+  schedule: every 1 hours from 03:20 to 07:20
+  timezone: Europe/Moscow
+
+- description: Collecting rating data from Yandex Wordstat
+  url: /jobs/yandex/
+  schedule: every 1 hours from 03:40 to 07:40
+  timezone: Europe/Moscow
+
+- description: Check total rating completed
+  url: /jobs/check/
+  schedule: every day 07:50
+  timezone: Europe/Moscow
+

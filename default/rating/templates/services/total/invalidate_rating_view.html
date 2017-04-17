@@ -1,0 +1,13 @@
+{% extends "admin/base_site.html" %}
+{% block title %}Invalidate Rating{% endblock %}
+
+{% block content %}
+<h1>Invalidate Rating</h1>
+        <div>
+        <form action="{% url 'invalidate_rating' %}" id="invalidate_form_id" method="POST" novalidate>
+            {% csrf_token %}
+        <div>Total rating formula version: {{ formula_version }}</div>
+        <input type="submit" value="Invalidate Rating" id="submit__id">
+        </form>
+        </div>
+{% endblock %}

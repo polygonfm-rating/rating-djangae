@@ -1,0 +1,41 @@
+{% extends "admin/change_list.html" %}
+{% load i18n admin_urls admin_static admin_modify %}
+{% block breadcrumbs %}
+<div class="breadcrumbs">
+<a href="{% url 'admin:index' %}">{% trans 'Home' %}</a>
+&rsaquo; <a href="">{{ opts.app_config.verbose_name }}</a>
+&rsaquo; {% if has_change_permission %}<a href="{% url opts|admin_urlname:'changelist' %}">{{ opts.verbose_name_plural|capfirst }}</a>{% else %}{{ opts.verbose_name_plural|capfirst }}{% endif %}
+&rsaquo; {% if add %}{% trans 'Add' %} {{ opts.verbose_name }}{% else %}{{ original|truncatewords:"18" }}{% endif %}&rsaquo; Upload
+</div>
+{% endblock %}
+{% block content %}
+    <div id="content-main">
+        <form enctype="multipart/form-data" method="post" action="{{ form_url }}">
+            {% csrf_token %}
+        {% for field in form.visible_fields %}
+                <div>
+                    {{ field.errors }}
+                    {% if field.is_checkbox %}
+                        {{ field }}{{ field.label_tag }}
+                    {% else %}
+                        {{ field.label_tag }}
+                        {% if field.is_readonly %}
+                            <p>{{ field.contents }}</p>
+                        {% else %}
+                            {{ field }}
+                        {% endif %}
+                    {% endif %}
+                    {% if field.help_text %}
+                        <p class="help">{{ field.help_text|safe }}</p>
+                    {% endif %}
+                </div><p/>
+            {% endfor %}
+
+
+            <p/>
+            <p/>
+            <p/>
+            <input type="submit" value="Send"/>
+        </form>
+    </div>
+{% endblock %}

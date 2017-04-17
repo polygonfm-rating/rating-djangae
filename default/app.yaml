@@ -1,0 +1,47 @@
+#application: polygonfm-rating-dangae
+runtime: python27
+threadsafe: true
+api_version: 1
+
+inbound_services:
+- mail
+
+handlers:
+- url: /_ah/mail/.+
+  script: rating.wsgi.application
+  login: admin
+
+- url: /jobs/.*
+  script: rating.wsgi.application
+  login: admin
+  secure: always
+
+- url: /static
+  static_dir: rating/staticfiles
+
+- url: /admin/.*
+  script: rating.wsgi.application
+#  secure: always
+#  login: admin
+
+- url: /.*
+  script: rating.wsgi.application
+  secure: optional
+
+skip_files:
+    - manage.py
+    - README.md
+    - install_deps
+    - requirements.txt
+    - sitepackages/google_appengine*
+    - \.storage.*
+    - \.git
+    - (.*)\.pyc
+
+builtins:
+- remote_api: on
+#
+#libraries:
+#- name: ssl
+#  version: latest
+

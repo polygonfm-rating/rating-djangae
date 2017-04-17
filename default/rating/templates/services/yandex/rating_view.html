@@ -1,0 +1,33 @@
+{% extends "admin/base_site.html" %}
+{% block title %}Yandex Wordstat Rating{% endblock %}
+
+{% block content %}
+<h1>Yandex Wordstat Rating</h1>
+    <form action="{% url 'yandex_rating' %}" id="start_process_form_id" method="POST" novalidate>
+        {% csrf_token %}
+        <input type="hidden" value="START" name="start_process_hidden_id"/>
+        <input type="submit" value="Start processing Yandex Wordstat"/>
+    </form>
+    {% if captcha_required %}
+        <div>
+        <form action="{% url 'yandex_rating' %}" id="captcha_form_id" method="POST" novalidate>
+            {% csrf_token %}
+        <img alt="{{ captcha_url }}" src="{{ captcha_url }}">
+        <input type="text" maxlength="20" name="captcha_text_id"/>
+        <input type="hidden" value="{{ captcha_key }}" name="captcha_key_hidden_id"/>
+        <input type="submit" value="Submit Captcha" id="submit_captcha_id">
+        </form>
+        </div>
+    {% endif %}
+    <p/>
+    {% if  completed_rating_process.count > 0 %}
+        <table>
+            <tr><td>Date</td><td>Period</td><td>Status</td></tr>
+            {% for rating in completed_rating_process %}
+                <tr><td>{{ rating.date }}</td><td>{{ rating.period }}</td><td>{{ rating.status }}</td></tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <i>No results</i>
+    {% endif %}
+{% endblock %}

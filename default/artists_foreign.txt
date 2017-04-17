@@ -1,0 +1,301 @@
+MUSE
+	youtube-user: muse
+	yandex_wordstat: muse
+ARCTIC MONKEYS
+	youtube-user: ArcticMonkeys
+	yandex_wordstat: arctic monkeys
+Red Hot Chili Peppers
+	youtube-user: RHCPtv
+	yandex_wordstat: red hot chili peppers
+Linkin Park
+	youtube-user: linkinparktv
+	yandex_wordstat: linkin park
+METALLICA
+	youtube-user: MetallicaTV
+	yandex_wordstat: metallica
+System Of A Down
+	youtube-user: systemofadownVEVO
+	yandex_wordstat: system +of +a down
+Nirvana
+	youtube-user: NirvanaVEVO
+	yandex_wordstat: курт кобейн
+The Killers
+	youtube-user: TheKillersVEVO
+	yandex_wordstat: +the killers
+Foo Fighters
+	youtube-user: foofightersVEVO
+	yandex_wordstat: foo fighters
+Placebo
+	youtube-user: officialplacebo
+	yandex_wordstat: placebo
+Green Day
+	youtube-user: greenday
+	yandex_wordstat: green day
+Nine Inch Nails
+	youtube-user: NineInchNailsVEVO
+	yandex_wordstat: nine inch nails
+Paramore
+	youtube-user: paramore
+	yandex_wordstat: paramore
+LED ZEPPELIN
+	youtube-user: ledzeppelin
+	yandex_wordstat: led zeppelin
+Queen
+	google-trends-term: /m/0bk1p
+	yandex_wordstat: queen скачать
+	youtube-user: queenofficial
+Rammstein
+	youtube-channel-id: UCYp3rk70ACGXQ4gFAiMr1SQ
+	yandex_wordstat: rammstein
+GORILLAZ
+	youtube-user: gorillaz
+	yandex_wordstat: gorillaz
+Oasis
+	youtube-user: oasisinetofficial
+	yandex_wordstat: oasis
+Pearl Jam
+	youtube-user: PearlJamOfficial
+	yandex_wordstat: pearl jam
+U2
+	youtube-user: U2VEVO
+	yandex_wordstat: u2
+Fall Out Boy
+	youtube-user: FallOutBoyVEVO
+	yandex_wordstat: fall out boy
+Queens Of The Stone Age
+	youtube-user: QueensStoneAgeVEVO
+	yandex_wordstat: queens +of +the stone age
+AC/DC
+	youtube-user: acdcVEVO
+	yandex_wordstat: acdc
+The Doors
+	google-trends-term: /m/07bzp
+	youtube-channel-id: UCdx4iSJpg33jNmd9auQT04Q
+	yandex_wordstat: +the doors
+Nightwish
+	youtube-user: Nightwishofficial
+	yandex_wordstat: nightwish
+KORN
+	youtube-user: KornVEVO
+	yandex_wordstat: korn
+The White Stripes
+	youtube-user: whitestripes
+	yandex_wordstat: +the white stripes
+The Offspring
+	youtube-user: OffspringVEVO
+	yandex_wordstat: offspring
+My Chemical Romance
+	youtube-user: mychemicalromance
+	yandex_wordstat: +my chemical romance
+SLIPKNOT
+	youtube-user: slipknot
+	yandex_wordstat: slipknot
+TOOL
+	google-trends-term: /m/07m7k
+	yandex_wordstat: tool слушать
+	youtube-channel-id: UCW6FSIkA04g7pBvMXlnaKqg
+Marilyn Manson
+	youtube-user: MarilynMansonVEVO
+	yandex_wordstat: marilyn manson
+30 Seconds to Mars
+	youtube-user: 30SecondsToMarsVEVO
+	yandex_wordstat: 30 seconds +to mars
+INCUBUS
+	youtube-user: IncubusVEVO
+	yandex_wordstat: incubus
+Guns N' Roses
+	youtube-user: GunsNRosesVEVO
+	yandex_wordstat: guns n roses
+Avril Lavigne
+	youtube-user: AvrilLavigneVEVO
+	yandex_wordstat: avril lavigne
+Evanescence
+	youtube-user: EvanescenceVEVO
+	yandex_wordstat: evanescence
+Weezer
+	youtube-user: WeezerVEVO
+	yandex_wordstat: weezer
+The Prodigy
+	youtube-user: ProdigyChannel
+	yandex_wordstat: prodigy
+Deftones
+	youtube-user: deftones
+	yandex_wordstat: deftones
+Rage Against The Machine
+	youtube-user: RATMVEVO
+	yandex_wordstat: rage against +the machine
+R.E.M.
+	youtube-user: remhq
+	yandex_wordstat: r e m
+Sum 41
+	youtube-user: Sum41VEVO
+	yandex_wordstat: sum 41
+A Day To Remember
+	youtube-user: ADayToRemember
+	yandex_wordstat: +a day +to remember
+Blur
+	google-trends-term: /m/0bt8c
+	yandex_wordstat: blur
+	youtube-user: blur
+Nickelback
+	youtube-user: nickelbacktv
+	yandex_wordstat: nickelback
+Three Days Grace
+	youtube-user: ThreeDaysGraceVEVO
+	yandex_wordstat: three days grace
+Bullet For My Valentine
+	youtube-user: bulletvalentineVEVO
+	yandex_wordstat: bullet mine valentine
+Kasabian
+	youtube-user: KasabianVEVO
+	yandex_wordstat: kasabian
+Alice In Chains
+	youtube-user: AliceInChainsVEVO
+	yandex_wordstat: alice +in chains
+Papa Roach
+	youtube-user: PapaRoachVEVO
+	yandex_wordstat: papa roach
+A Perfect Circle
+	youtube-channel-id: UCAUB8xZmHho16u6GKlnLhXA
+	yandex_wordstat: +a perfect circle
+Limp Bizkit
+	youtube-user: LimpBizkitVEVO
+	yandex_wordstat: limp bizkit
+Bring Me the Horizon
+	youtube-user: BMTHOfficialVEVO
+	yandex_wordstat: bring me +the horizon
+Within Temptation
+	youtube-user: WithinTemptationVEVO
+	yandex_wordstat: within temptation
+Aerosmith
+	youtube-user: Aerosmith
+	yandex_wordstat: aerosmith
+Bob Marley
+	youtube-user: BobMarleyVEVO
+	yandex_wordstat: bob marley
+PANTERA
+	google-trends-term: /m/011_vg
+	yandex_wordstat: pantera скачать
+	youtube-channel-id: UCZOWwQaVFO8QxRVVIJBTEZQ
+HIM
+	youtube-user: HIMVEVO
+	yandex_wordstat: him  скачать
+AFI
+	youtube-user: AFIVEVO
+	yandex_wordstat: AFI скачать
+Foals
+	google-trends-term: /m/02qhydg
+	youtube-user: wearefoals
+	yandex_wordstat: foals скачать
+3 DOORS DOWN
+	google-trends-term: /m/014gd9
+	youtube-user: 3DoorsDownVEVO
+	yandex_wordstat: 3 doors down
+NOFX
+	youtube-channel-id: UC5-MatmZOvX-ORzhTuO0ZiQ
+	yandex_wordstat: nofx
+All Time Low
+	youtube-user: ALLtimeLOW
+	yandex_wordstat: +all time low
+Motorhead
+	youtube-channel-id: UCbPCDmtTU-W4SdA8abZtWpA
+	yandex_wordstat: motorhead
+Ed Sheeran
+	youtube-user: EdSheeran
+	yandex_wordstat: ed sheeran
+OneRepublic
+	google-trends-term: /m/02q3w3v
+	yandex_wordstat: onerepublic
+	youtube-user: OneRepublicVEVO
+Imagine Dragons
+	youtube-user: ImagineDragonsVEVO
+	yandex_wordstat: imagine dragons
+Apocalyptica
+	youtube-user: ApocalypticaVideos
+	yandex_wordstat: apocalyptica
+The Cranberries
+	google-trends-term: /m/01467z
+	youtube-user: TheCranberriesVEVO
+	yandex_wordstat: +the cranberries
+Enter Shikari
+	youtube-user: AmbushReality
+	yandex_wordstat: enter shikari
+Kaiser Chiefs
+	youtube-user: KaiserChiefsVEVO
+	yandex_wordstat: kaiser chiefs
+Good Charlotte
+	youtube-user: GoodCharlotteVEVO
+	yandex_wordstat: good charlotte
+GARBAGE
+	google-trends-term: /m/01pfr3
+	yandex_wordstat: garbage
+	youtube-user: GarbageVEVO
+Stone Sour
+	youtube-user: StonESouR
+	yandex_wordstat: stone sour
+Faith No More
+	youtube-channel-id: UCw0J9lusvvGJ7VVZDuQnotA
+	yandex_wordstat: faith +no more
+SOUNDGARDEN
+	youtube-user: SoundgardenVEVO
+	yandex_wordstat: soundgarden
+No Doubt
+	google-trends-term: /m/016fmf
+	yandex_wordstat: +no doubt
+	youtube-user: NoDoubtVEVO
+Skillet
+	youtube-user: skilletband
+	yandex_wordstat: skillet
+Hollywood Undead
+	youtube-user: HollywoodUndeadVEVO
+	yandex_wordstat: hollywood undead
+Godsmack
+	youtube-user: GodsmackVEVO
+	yandex_wordstat: godsmack
+The Cardigans
+	google-trends-term: /m/017bv0
+	yandex_wordstat: +the cardigans
+	youtube-user: TheCardigansVEVO
+Five Finger Death Punch
+	youtube-user: 5FDPVEVO
+	yandex_wordstat: five finger death punch
+Guano Apes
+	youtube-user: GuanoApesVEVO
+	yandex_wordstat: guano apes
+SHINEDOWN
+	youtube-user: ShinedownTV
+	yandex_wordstat: shinedown
+Flyleaf
+	youtube-user: FlyleafVEVO
+	yandex_wordstat: flyleaf
+Serj Tankian
+	youtube-user: serjtankian
+	yandex_wordstat: serj tankian
+Eagles
+	google-trends-term: /m/0mjn2
+	youtube-channel-id: UC49r4GNHHpc-eQ9hmD2Rg6A
+	yandex_wordstat: eagle скачать
+Stone Temple Pilots
+	youtube-user: stptv
+	yandex_wordstat: stone temple pilots
+GOGOL BORDELLO
+	youtube-user: GogolBordello
+	yandex_wordstat: gogol bordello
+Poets of the Fall
+	youtube-user: PoetsOfTheFallBand
+	yandex_wordstat: poets +of +the fall
+The Rasmus
+	youtube-user: TheRasmusVEVO
+	yandex_wordstat: +the rasmus
+Thousand Foot Krutch
+	youtube-user: tfkofficial
+	yandex_wordstat: thousand foot krutch
+The Neighbourhood
+	youtube-user: TheNeighbourhoodVEVO
+	yandex_wordstat: +the neighbourhood
+Hozier
+	youtube-user: HozierVEVO
+	yandex_wordstat: hozier
+MIYAVI
+	youtube-user: MiyaviVEVO
+	yandex_wordstat: miyavi

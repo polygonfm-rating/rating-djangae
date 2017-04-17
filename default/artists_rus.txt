@@ -1,0 +1,163 @@
+Сплин
+	youtube-user: spleanmasterskaya
+	google-trends-term: Сплин
+	yandex_wordstat: Сплин
+Noize MC 
+	youtube-user: noizemcrussia
+	google-trends-term: Noize MC
+	yandex_wordstat: noize mc
+Lumen
+	youtube-user: LUMENofficialCHANNEL
+	google-trends-term: /m/02vrhx8
+	yandex_wordstat: lumen
+Король и Шут
+	youtube-user: thekorolishut
+	google-trends-term: Король и Шут
+	yandex_wordstat: король +и шут
+Кино
+	youtube-user: ialex159
+	google-trends-term: виктор цой
+	yandex_wordstat: виктор цой
+Ленинград
+	youtube-user: shnur0k
+	google-trends-term: группа Ленинград
+	yandex_wordstat: группа ленинград
+Аквариум
+	youtube-user: borisgrebenshikov
+	google-trends-term: группа Аквариум
+	yandex_wordstat: борис гребенщиков
+Animal ДжаZ
+	youtube-user: animaljazzify
+	google-trends-term: Animal ДжаZ
+	yandex_wordstat: animal джаz
+Дельфин
+	youtube-user: dolphinmusic
+	google-trends-term: /m/03y9j2k
+	yandex_wordstat: дельфин слушать
+ДДТ 
+	youtube-user: officialddt
+	google-trends-term: ддт
+	yandex_wordstat: ддт
+Пилот
+	youtube-user: GruppaPILOT
+	google-trends-term: /m/01qd93z
+	yandex_wordstat: группа пилот
+Слот
+	youtube-user: theslot
+	google-trends-term: /m/01vn9xs
+	yandex_wordstat: слот группа
+Brainstorm
+	youtube-user: BrainStormLV
+	google-trends-term: Brainstorm
+	yandex_wordstat: brainstorm
+[AMATORY]
+	vk: аматори
+	youtube-user: amatorytube
+	google-trends-term: AMATORY
+	yandex_wordstat: amatory
+Stigmata
+	youtube-user: stigmatarus
+	google-trends-term: Stigmata
+	yandex_wordstat: stigmata
+Алиса
+	youtube-user: alisachannel
+	google-trends-term: /m/06hky2
+	yandex_wordstat: алиса группа
+Кирпичи
+	youtube-user: kirpichi
+	google-trends-term: группа кирпичи
+	yandex_wordstat: кирпичи группа
+Тараканы
+	google-trends-term: /m/01smvzn
+	youtube-user: TarakanyRu
+	yandex_wordstat: тараканы группа
+Чайф
+	youtube-user: chaif
+Tracktor Bowling
+	youtube-user: tracktorbowling
+	google-trends-term: /m/05ztkhc
+	yandex_wordstat: tracktor bowling
+АукцЫон
+	youtube-user: auktyon	
+	google-trends-term: /m/01qkkp2
+	yandex_wordstat: группа аукцыон
+Alai Oli 
+	google-trends-term: Alai Oli 
+	youtube-channel-id: UC1zrcvWslBQpxYXnv6ASz1g
+	yandex_wordstat: alai oli
+Найк Борзов
+	google-trends-term: Найк Борзов
+	youtube-user: NaikBorzov
+	yandex_wordstat: найк борзов
+Торба-на-Круче
+	google-trends-term: /m/01wsyrp
+	youtube-user: torbatube
+	yandex_wordstat: торба +на круче
+Веня Дркин
+	youtube-user: drdomlabel
+	google-trends-term: Веня Дркин
+	yandex_wordstat: веня дркин
+Чиж Ко
+	youtube-channel-id: UCmZ3uUsjTxNm7jPlj59bebA
+	google-trends-term: /m/01qsxq4
+	yandex_wordstat: чиж +и +ко
+НАИВ
+	google-trends-term: НАИВ
+	youtube-user: naiverock
+	yandex_wordstat: наив
+TequilaJazzz
+	youtube-channel-id: UCg4iqHrcGB7oquVoKeHPes
+	google-trends-term: TequilaJazzz
+	yandex_wordstat: tequilajazzz
+Louna
+	google-trends-term: /m/0jt7_h6
+	youtube-user: lounaband
+	yandex_wordstat: louna
+ПТВП
+	youtube-channel-id: UCi7_-zvQY8dROvUDVjK7SLQ
+	google-trends-term: /m/01x1g1j
+	yandex_wordstat: птвп
+Егор Летов
+	youtube-channel-id: UCOH7H-J4BAi-lR0c9MGwi7g
+	google-trends-term: егор летов
+	yandex_wordstat: егор летов
+Бригадный Подряд 
+	youtube-channel-id: UCTWkL61jstjYOw1IHRs1IRw
+	google-trends-term: /g/121s93bs
+	yandex_wordstat: бригадный подряд
+Александр Башлачев
+	youtube-channel-id: UCXU4D1Gmdl3IoDOZ6Ch9nlg
+	google-trends-term: Александр Башлачев
+	yandex_wordstat: александр башлачев
+Zero People
+	google-trends-term: /m/0q7_j4g
+	youtube-user: zeropeopleband
+	yandex_wordstat: zero people
+The Meantraitors 
+	youtube-channel-id: UCKNVEE-tevMjaIN0XPzXbTw
+	google-trends-term: /m/03f0j6k 
+	yandex_wordstat: +the meantraitors
+Петр Налич 
+	google-trends-term: Петр Налич
+	youtube-user: hanurpriehal
+	yandex_wordstat: петр налич
+Северный Флот
+	google-trends-term: /g/12q4zkd1d
+	youtube-user: severnyflot
+	yandex_wordstat: северный флот
+Машнинбэнд 
+	youtube-channel-id: UCHognpOkBBEIRaZQHQMc6jA
+	google-trends-term: Машнинбэнд 
+	yandex_wordstat: машнинбэнд
+NOD
+	google-trends-term: группа нод
+	youtube-user: nodband
+	yandex_wordstat: nod группа
+Billy’s Band
+	youtube-user: billysbandcom
+	google-trends-term: /m/01s6f27
+	yandex_wordstat: billy's band
+АлёNa
+	google-trends-term: алена романова
+	youtube-channel-id: UCgZw17NSCST7HFBwjKUqM9w
+	yandex_wordstat: алена романова

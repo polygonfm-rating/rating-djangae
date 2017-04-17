@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rating - Polygon.FM</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td valign="top">
+            {% with russian_rating as rating %}
+                {% include "rating_list_snippet.html"%}
+            {% endwith %}
+        </td>
+        <td valign="top">
+            {% with foreign_rating as rating %}
+                {% include "rating_list_snippet.html" %}
+            {% endwith %}
+        </td>
+            <td valign="top">
+            {% with mix_rating as rating %}
+                {% include "rating_list_snippet.html" %}
+            {% endwith %}
+        </td>
+    </tr>
+</table>
+</body>
+</html>

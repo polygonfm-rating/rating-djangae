@@ -1,0 +1,18 @@
+{% extends "admin/base_site.html" %}
+{% block title %}VK Captcha{% endblock %}
+
+{% block content %}
+<h1>VK Captcha</h1>
+    {% if captcha_required %}
+        <div>
+        <form action="{% url 'vk_captcha' %}" id="captcha_form_id" method="POST" novalidate>
+            {% csrf_token %}
+        <img alt="{{ captcha_img }}" src="{{ captcha_img }}">
+        <input type="text" maxlength="20" name="captcha_text_id"/>
+        <input type="hidden" value="{{ captcha_sid }}" name="captcha_sid_hidden_id"/>
+        <input type="hidden" value="{{ state_id }}" name="state_hidden_id"/>
+        <input type="submit" value="Submit Captcha" id="submit_captcha_id">
+        </form>
+        </div>
+    {% endif %}
+{% endblock %}
